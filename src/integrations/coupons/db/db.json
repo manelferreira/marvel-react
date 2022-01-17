@@ -1,0 +1,19 @@
+{
+    "coupons": [
+        {
+            "id": 1,
+            "code": "cupom1",
+            "fee": 0.5
+        },
+        {
+            "id": 2,
+            "code": "cupom2",
+            "fee": 0.1
+        },
+        {
+            "id": 3,
+            "code": "cupom3",
+            "fee": 0.15
+        }
+    ]
+}
